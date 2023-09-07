@@ -1,0 +1,11 @@
+body {background: #ffffff url("kaedehara_kazuha_render_by_axal1s_dfqkafc.png") no-repeat fixed center;}
+    p.normal {font-weight: normal;}
+    p.tebal {font-weight: bold;}
+    p.teballl {font-weight: 900;}
+    p.lengkap {font: italic small-caps 900 12px arial;}
+    p.borderous {
+        border-style: double;
+        border-width: 5px 10px 1px medium;
+        border-color: red green yellow rgb(250,0,255);
+    }
+    p.margin {margin: 2cm 4cm 3cm 80px;}
